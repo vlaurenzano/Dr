@@ -1,0 +1,12 @@
+{
+  "name": "vlaurenzano/dr",
+  "description": "Dependency container, not injector",
+  "minimum-stability": "dev",
+  "license": "to kill",
+  "autoload": {
+    "psr-4": {
+      "Dr\\": "src/"     
+    }
+  }
+}
+
