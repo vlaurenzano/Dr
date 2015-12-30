@@ -1,7 +1,8 @@
 # Dr
 
 Dr is a dependency registry. Can register simple values, objects, anonymous functions, singletons, etc. 
-The premise here is a full blown dependency injection solution if often overkill, and can obfuscate otherwise simple and easy to follow application logic. 
+Doesn't do any automoatic resolution, this isn't a di library.
+More or less similar to a lot of service locators / registries out there such as Pimple. 
 
 #Usage
 
